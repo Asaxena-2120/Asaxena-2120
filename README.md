@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aastha Saxena</h1>
-<h3 align="center">Python Backend developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaxena-2120&label=Profile%20views&color=0e75b6&style=flat" alt="asaxena-2120" /> </p>
 
-- 🔭 I’m currently working on [Address-to-zipcode](https://github.com/Asaxena-2120/API-Address-to-zipcode/releases)
+- 🔭 I’m currently working on [FullStack-Code-the-Code](https://github.com/Asaxena-2120/FullStack-Code-the-Code.git)
 
-- 🌱 I’m currently learning **Python, pandas, API, MySQL, HTML, Tkinter**
+- 🌱 I’m currently learning **Python, pandas, API, MySQL, HTML, Tkinter, JavaScript, React, SqlAlchemy, Flask**
 
-- 💬 Ask me about **Python, Software Development,**
+- 💬 Ask me about **Full Stack Software Development,**
 
 - 📫 How to reach me **aasthasaxena100@gmail.com**
 
